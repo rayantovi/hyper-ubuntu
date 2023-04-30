@@ -1,0 +1,21 @@
+{
+  "name": "hyper-ubuntu",
+  "version": "1.0.0",
+  "description": "A Hyper theme.",
+  "license": "MIT",
+  "repository": "https://github.com/rayantovi/hyper-ubuntu",
+  "author": {
+    "name": "Ryan Tovi",
+    "email": "rayantovi5@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "theme",
+    "ubuntu"
+  ]
+}
